@@ -1,0 +1,498 @@
+[
+    {
+        "goal": "Prepare for my semester examinations.",
+        "days": 7,
+        "hours_per_day": 3,
+        "created_at": "2026-09-09 23:21:59",
+        "plan": [
+            {
+                "day": 1,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Python",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in DBMS",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Java",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Revision",
+                        "task": "Revise and self-test DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Python",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in DBMS",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Java",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Revision",
+                        "task": "Revise and self-test DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 7,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            }
+        ],
+        "evaluation": [
+            {
+                "day": 1,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 2,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 3,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 4,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 5,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 6,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 7,
+                "hours": 3,
+                "status": "Valid"
+            }
+        ]
+    },
+    {
+        "goal": "Prepare for my semester examinations.",
+        "days": 7,
+        "hours_per_day": 3,
+        "created_at": "2026-09-10 00:12:51",
+        "plan": [
+            {
+                "day": 1,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Python",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in DBMS",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Java",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Revision",
+                        "task": "Revise and self-test DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Python",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in DBMS",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Practice",
+                        "task": "Solve examples and practice questions in Java",
+                        "priority": "Medium",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Revision",
+                        "task": "Revise and self-test DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Revision",
+                        "task": "Revise and self-test Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "day": 7,
+                "tasks": [
+                    {
+                        "subject": "Python",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Python",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "DBMS",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of DBMS",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    },
+                    {
+                        "subject": "Java",
+                        "topic": "Concept Learning",
+                        "task": "Study important concepts of Java",
+                        "priority": "High",
+                        "hours": 1,
+                        "completed": false
+                    }
+                ]
+            }
+        ],
+        "evaluation": [
+            {
+                "day": 1,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 2,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 3,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 4,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 5,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 6,
+                "hours": 3,
+                "status": "Valid"
+            },
+            {
+                "day": 7,
+                "hours": 3,
+                "status": "Valid"
+            }
+        ]
+    }
+]
